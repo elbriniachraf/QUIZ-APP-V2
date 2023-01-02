@@ -1,0 +1,334 @@
+{
+    "questions":[
+        {
+            "num":1,
+            "question":"Vous pouvez créer un émulateur pour simuler la configuration d'un type d'appareil Android particulier avec un outil comme ___.",
+            "rep1":"Android SDK Manager",
+            "rep2":"Éditeur virtuel",
+            "rep3":"AVD MANAGER",
+            "numreponsejuste":3
+        },
+        {
+            "num":2,
+            "question":"Kotlin is developed by?",
+            "rep1":"JetBrains",
+            "rep2":" Google",
+            "rep3":"Microsoft",
+            "numreponsejuste":2
+        },
+        {
+            "num":3,
+            "question":"Which of following is used to handle null exceptions in Kotlin?",
+            "rep1":"Elvis Operator",
+            "rep2":"Range",
+            "rep3":"Sealed Class",
+            "numreponsejuste":1
+        },
+        {
+            "num":4,
+            "question":"Which file extension is used to save Kotlin files.",
+            "rep1":".java",
+            "rep2":" .kot",
+            "rep3":".kt or .kts",
+            "numreponsejuste":3
+        },
+        {
+            "num":5,
+            "question":"All classes in Kotlin classes are by default?",
+            "rep1":"sealed",
+            "rep2":"final",
+            "rep3":"public",
+            "numreponsejuste":2
+        },
+        {
+            "num":6,
+            "question":"What is an immutable variable?",
+            "rep1":"A variable that cannot change, read-only",
+            "rep2":"A variable that can be changed",
+            "rep3":"A variable used for string interpolation",
+            "numreponsejuste":1
+        },
+        {
+            "num":7,
+            "question":"Which of follwing targets currently not supported by Kotlin?",
+            "rep1":"LLVM",
+            "rep2":"Javascript",
+            "rep3":".NET CLR",
+            "numreponsejuste":3
+        },
+        {
+            "num":8,
+            "question":"",
+            "rep1":"",
+            "rep2":"",
+            "rep3":"",
+            "numreponsejuste":2
+        },
+        {
+            "num":9,
+            "question":"How to make a multi lined comment in Kotlin?",
+            "rep1":" /* */",
+            "rep2":"/ multi line comment /",
+            "rep3":"//",
+            "numreponsejuste":1
+        },
+        {
+            "num":10,
+            "question":"How do you get the length of a string in Kotlin?",
+            "rep1":"length(str)",
+            "rep2":"str.length",
+            "rep3":"str.lengthOf",
+            "numreponsejuste":2
+        },
+        {
+            "num":10,
+            "question":"Which of the followings constructors are available in Kotlin?",
+            "rep1":"Primary constructor",
+            "rep2":"Secondary constructor",
+            "rep3":"Both 1 & 2",
+            "numreponsejuste":3
+        },
+        {
+            "num":11,
+            "question":"Which of the following extension methods are used in Kotlin?",
+            "rep1":"All of the above",
+            "rep2":"Buffer reader ()",
+            "rep3":"Read texts () & Headlines ()",
+            "numreponsejuste":1
+        },
+        {
+            "num":12,
+            "question":"There are two types of constructors in Kotlin which are-",
+            "rep1":"Default & No-arg constructor",
+            "rep2":"Primary & Secondary constructor",
+            "rep3":"Parameterized & constant Constructor",
+            "numreponsejuste":2
+        },
+        {
+            "num":13,
+            "question":"Which of the following is not the basic data types in Kotlin?",
+            "rep1":"Numbers",
+            "rep2":"Strings",
+            "rep3":"Lists",
+            "numreponsejuste":3
+        },
+        {
+            "num":14,
+            "question":"Kotlin was developed under the .......... license.",
+            "rep1":"APPACHE 1",
+            "rep2":"APPACHE 2",
+            "rep3":"APPACHE 3",
+            "numreponsejuste":2
+        },
+        {
+            "num":15,
+            "question":"L'___ permet de restreindre l'accès direct à certains champs d'un objet.",
+            "rep1":"XXX",
+            "rep2":"YY",
+            "rep3":"ZZ",
+            "numreponsejuste":1
+        },
+
+        {
+            "num":16,
+            "question":"Vous mettez à jour une classe Java vers Kotlin. Que devez-vous utiliser pour remplacer les champs statiques de la classe Java ?",
+            "rep1":"objet anonyme",
+            "rep2":"propriété statique",
+            "rep3":"objet compagnon",
+            "numreponsejuste":3
+        },
+        {
+            "num":17,
+            "question":"Quelles sont les trois méthodes de cette classe ? class Person",
+            "rep1":" equals(), toHash(), and super()",
+            "rep2":"equals(), hashCode(), and toString()",
+            "rep3":"clone(), equals(), and super()",
+            "numreponsejuste":2
+        },
+        {
+            "num":18,
+            "question":"Laquelle de ces cibles kotlin ne supporte-t-elle pas?\n",
+            "rep1":".NET CLR",
+            "rep2":"JavaScript",
+            "rep3":"LLVM",
+            "numreponsejuste":1
+        },
+        {
+            "num":19,
+            "question":"L'___ permet de restreindre l'accès direct à certains champs d'un objet.",
+            "rep1":"CLASS",
+            "rep2":"SCORE",
+            "rep3":"\nencapsulation",
+            "numreponsejuste":3
+        },
+        {
+            "num":20,
+            "question":"Un(e) ___ représente, par défaut, les éléments d'une ligne ou d'une colonne lorsque vous utilisez GridLayout.",
+            "rep1":"liste",
+            "rep2":"grille",
+            "rep3":"set",
+            "numreponsejuste":2
+        },
+        {
+            "num":21,
+            "question":"Vous pouvez créer un émulateur pour simuler la configuration d'un type d'appareil Android particulier avec un outil comme ___.",
+            "rep1":"Android SDK Manager",
+            "rep2":"Éditeur virtuel",
+            "rep3":"AVD MANAGER",
+            "numreponsejuste":3
+        },
+        {
+            "num":22,
+            "question":"Kotlin is developed by?",
+            "rep1":"JetBrains",
+            "rep2":" Google",
+            "rep3":"Microsoft",
+            "numreponsejuste":2
+        },
+        {
+            "num":23,
+            "question":"Which of following is used to handle null exceptions in Kotlin?",
+            "rep1":"Elvis Operator",
+            "rep2":"Range",
+            "rep3":"Sealed Class",
+            "numreponsejuste":1
+        },
+        {
+            "num":24,
+            "question":"Which file extension is used to save Kotlin files.",
+            "rep1":".java",
+            "rep2":" .kot",
+            "rep3":".kt or .kts",
+            "numreponsejuste":3
+        },
+        {
+            "num":25,
+            "question":"All classes in Kotlin classes are by default?",
+            "rep1":"sealed",
+            "rep2":"final",
+            "rep3":"public",
+            "numreponsejuste":2
+        },
+        {
+            "num":26,
+            "question":"What is an immutable variable?",
+            "rep1":"A variable that cannot change, read-only",
+            "rep2":"A variable that can be changed",
+            "rep3":"A variable used for string interpolation",
+            "numreponsejuste":1
+        },
+        {
+            "num":27,
+            "question":"Which of follwing targets currently not supported by Kotlin?",
+            "rep1":"LLVM",
+            "rep2":"Javascript",
+            "rep3":".NET CLR",
+            "numreponsejuste":3
+        },
+        {
+            "num":28,
+            "question":"",
+            "rep1":"",
+            "rep2":"",
+            "rep3":"",
+            "numreponsejuste":2
+        },
+        {
+            "num":29,
+            "question":"How to make a multi lined comment in Kotlin?",
+            "rep1":" /* */",
+            "rep2":"/ multi line comment /",
+            "rep3":"//",
+            "numreponsejuste":1
+        },
+        {
+            "num":30,
+            "question":"How do you get the length of a string in Kotlin?",
+            "rep1":"length(str)",
+            "rep2":"str.length",
+            "rep3":"str.lengthOf",
+            "numreponsejuste":2
+        },
+        {
+            "num":31,
+            "question":"Which of the followings constructors are available in Kotlin?",
+            "rep1":"Primary constructor",
+            "rep2":"Secondary constructor",
+            "rep3":"Both 1 & 2",
+            "numreponsejuste":3
+        },
+        {
+            "num":32,
+            "question":"Which of the following extension methods are used in Kotlin?",
+            "rep1":"All of the above",
+            "rep2":"Buffer reader ()",
+            "rep3":"Read texts () & Headlines ()",
+            "numreponsejuste":1
+        },
+        {
+            "num":33,
+            "question":"There are two types of constructors in Kotlin which are-",
+            "rep1":"Default & No-arg constructor",
+            "rep2":"Primary & Secondary constructor",
+            "rep3":"Parameterized & constant Constructor",
+            "numreponsejuste":2
+        },
+        {
+            "num":34,
+            "question":"Which of the following is not the basic data types in Kotlin?",
+            "rep1":"Numbers",
+            "rep2":"Strings",
+            "rep3":"Lists",
+            "numreponsejuste":3
+        },
+        {
+            "num":35,
+            "question":"Kotlin was developed under the .......... license.",
+            "rep1":"APPACHE 1",
+            "rep2":"APPACHE 2",
+            "rep3":"APPACHE 3",
+            "numreponsejuste":2
+        },
+        {
+            "num":36,
+            "question":"L'___ permet de restreindre l'accès direct à certains champs d'un objet.",
+            "rep1":"XXX",
+            "rep2":"YY",
+            "rep3":"ZZ",
+            "numreponsejuste":1
+        },
+
+        {
+            "num":37,
+            "question":"Vous mettez à jour une classe Java vers Kotlin. Que devez-vous utiliser pour remplacer les champs statiques de la classe Java ?",
+            "rep1":"objet anonyme",
+            "rep2":"propriété statique",
+            "rep3":"objet compagnon",
+            "numreponsejuste":3
+        },
+        {
+            "num":38,
+            "question":"Quelles sont les trois méthodes de cette classe ? class Person",
+            "rep1":" equals(), toHash(), and super()",
+            "rep2":"equals(), hashCode(), and toString()",
+            "rep3":"clone(), equals(), and super()",
+            "numreponsejuste":2
+        },
+        {
+            "num":39,
+            "question":"Laquelle de ces cibles kotlin ne supporte-t-elle pas?\n",
+            "rep1":".NET CLR",
+            "rep2":"JavaScript",
+            "rep3":"LLVM",
+            "numreponsejuste":1
+        },
+        {
+            "num":40,
+            "question":"L'___ permet de restreindre l'accès direct à certains champs d'un objet.",
+            "rep1":"CLASS",
+            "rep2":"SCORE",
+            "rep3":"encapsulation",
+            "numreponsejuste":3
+        }
+    ]
+}

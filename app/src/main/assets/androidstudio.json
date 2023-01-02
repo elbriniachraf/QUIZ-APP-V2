@@ -1,0 +1,326 @@
+{
+    "questions":[
+        {
+            "num":1,
+            "question":"Choisissez la bonne réponse concernant Android.",
+            "rep1":"Android est un navigateur web",
+            "rep2":" Android est une application web",
+            "rep3":"Android est un système d’exploitation",
+            "numreponsejuste":3
+        },
+        {
+            "num":2,
+            "question":"Sous quelle licence Android se trouve-t-il ?",
+            "rep1":"Sourceforge",
+            "rep2":"Apache/MIT",
+            "rep3":"OSS",
+            "numreponsejuste":2
+        },
+
+        {
+            "num":3,
+            "question":" Pour qui Android est-il principalement développé ?",
+            "rep1":"Serveurs",
+            "rep2":"Ordinateurs portables",
+            "rep3":"Appareils mobiles",
+            "numreponsejuste":3
+        },
+        {
+            "num":4,
+            "question":"Laquelle des machines virtuelles suivantes est utilisée par le système d’exploitation Android ?",
+            "rep1":"Machine virtuelle Dalvik",
+            "rep2":"Machine virtuelle simple",
+            "rep3":"JVM",
+            "numreponsejuste":1
+        },
+        {
+            "num":5,
+            "question":"Android est basé sur quel langage?",
+            "rep1":"C",
+            "rep2":"C++",
+            "rep3":"Java",
+            "numreponsejuste":3
+        },
+        {
+            "num":6,
+            "question":"APK signifie _____ ______ ______",
+            "rep1":"Android Package Kit",
+            "rep2":"Android Page Kit",
+            "rep3":"Android Phone Kit",
+            "numreponsejuste":1
+        },
+        {
+            "num":7,
+            "question":"API signifie _____ ______ ______",
+            "rep1":"Application Page Interface",
+            "rep2":"Application Programming Interface",
+            "rep3":"Android Programming Interface",
+            "numreponsejuste":2
+        },
+        {
+            "num":8,
+            "question":"Qu’est-ce qu’une activité en Android ?",
+            "rep1":"Classe android",
+            "rep2":"Représente un écran dans une application Android.",
+            "rep3":"Package android",
+            "numreponsejuste":2
+        },
+        {
+            "num":9,
+            "question":"Comment arrêter les services dans Android ?",
+            "rep1":"En utilisant la méthode stopSelf() et stopService()",
+            "rep2":"En utilisant la méthode finish()",
+            "rep3":"En utilisant la méthode system.exit()",
+            "numreponsejuste":1
+        },
+        {
+            "num":10,
+            "question":"Lequel des éléments suivants convertit le byte code Java en byte code Dalvik ?",
+            "rep1":"Compilateur Dex",
+            "rep2":"Le convertisseur Dalvik",
+            "rep3":"Android Studio",
+            "numreponsejuste":1
+        },
+        {
+            "num":11,
+            "question":"ADB signifie _____ ______ ______",
+            "rep1":"Android Destroy Bridge",
+            "rep2":"Android Delete Bridge",
+            "rep3":"Android Debug Bridge",
+            "numreponsejuste":1
+        },
+        {
+            "num":12,
+            "question":"equel des noyaux suivants est utilisé dans Android ?",
+            "rep1":"Windows",
+            "rep2":"Linux",
+            "rep3":"Redhat",
+            "numreponsejuste":2
+        },
+        {
+            "num":13,
+            "question":"Lequel des éléments suivants n’est pas une méthode callback du cycle de vie d’une activité ?",
+            "rep1":"Méthode onBackPressed()",
+            "rep2":"Méthode onStart()",
+            "rep3":"Méthode onCreate()",
+            "numreponsejuste":1
+        },
+        {
+            "num":14,
+            "question":"Nous avons besoin d’un AVD pour créer un émulateur. Que signifie AVD ?",
+            "rep1":"Android Virtual Display",
+            "rep2":"Android Virtual Device",
+            "rep3":"Active Virtual Device",
+            "numreponsejuste":2
+        },
+        {
+            "num":15,
+            "question":"Lequel des éléments suivants est contenu dans le dossier src ?",
+            "rep1":"XML",
+            "rep2":"Code source Java",
+            "rep3":"Manifeste",
+            "numreponsejuste":2
+        },
+        {
+            "num":16,
+            "question":"Laquelle des méthodes suivantes est utilisée pour gérer ce qui se passe après avoir cliqué sur un bouton ?",
+            "rep1":"onClick",
+            "rep2":"onCreate",
+            "rep3":"onSelect",
+            "numreponsejuste":1
+        },
+        {
+            "num":17,
+            "question":"NDK signifie _____ ______ ______",
+            "rep1":"New Development kit",
+            "rep2":"Native Development Kit",
+            "rep3":"Native Design Kit",
+            "numreponsejuste":2
+        },
+        {
+            "num":18,
+            "question":"Lequel des composants android suivants affiche la partie d’une activité à l’écran ?",
+            "rep1":"Vue",
+            "rep2":"Intent",
+            "rep3":"Fragment",
+            "numreponsejuste":1
+        },
+        {
+            "num":19,
+            "question":"Lequel des éléments suivants est la classe parente de Activity ?",
+            "rep1":"ContextThemeWrapper",
+            "rep2":"Object",
+            "rep3":"Context",
+            "numreponsejuste":1
+        },
+        {
+            "num":20,
+            "question":"Dans lequel des onglets suivants une erreur est affichée ?",
+            "rep1":"Journaux ADB",
+            "rep2":"Mémoire",
+            "rep3":"CPUZ",
+            "numreponsejuste":1
+        },
+        {
+            "num":21,
+            "question":"Toutes les classes de layout sont des sous-classes de _____________",
+            "rep1":"android.view.View",
+            "rep2":"android.view.ViewGroup",
+            "rep3":"android.widget",
+            "numreponsejuste":2
+        },
+        {
+            "num":22,
+            "question":"Laquelle des classes suivantes exécute la tâche de manière asynchrone avec votre service ?",
+            "rep1":"AsyncTask",
+            "rep2":"SyncTask",
+            "rep3":"Les deux classes ci-dessus",
+            "numreponsejuste":1
+        },
+        {
+            "num":23,
+            "question":"ANR signifie _____ ______ ______",
+            "rep1":"Application Not Responding",
+            "rep2":"Application Not Reacting",
+            "rep3":"Application Not Rendering",
+            "numreponsejuste":1
+        },
+        {
+            "num":24,
+            "question":"Lequel des layouts suivants d’Android organise les objets en lignes et en colonnes ?",
+            "rep1":"FrameLayout",
+            "rep2":"TableLayout",
+            "rep3":"RelativeLayout",
+            "numreponsejuste":2
+        },
+        {
+            "num":25,
+            "question":"Quelle est la valeur par défaut de l’attribut orientation dans LinearLayout ?",
+            "rep1":"Horizontal",
+            "rep2":"Vertical",
+            "rep3":"Il n’y a pas de valeur par défaut pour l’attribut orientation dans LinearLayout",
+            "numreponsejuste":2
+        },
+        {
+            "num":26,
+            "question":"GCM signifie _____ ______ ______",
+            "rep1":"GUI Cloud Messaging",
+            "rep2":"Google Cloud Messaging",
+            "rep3":"Google Computer Messaging",
+            "numreponsejuste":2
+        },
+        {
+            "num":27,
+            "question":"JSON signifie _____ ______ ______ _______",
+            "rep1":"JSON signifie _____ ______ ______ _______",
+            "rep2":"JavaScript Object Network",
+            "rep3":"JavaScript Object Notation",
+            "numreponsejuste":3
+        },
+        {
+            "num":28,
+            "question":"Choisissez l’option correcte pour trouver la longueur de l’élément JSON dans Android JSON.",
+            "rep1":"add()",
+            "rep2":"sum()",
+            "rep3":"length()",
+            "numreponsejuste":3
+        },
+        {
+            "num":29,
+            "question":"Qu’est-ce qu’un WebKit ?",
+            "rep1":"Serveur de base de données",
+            "rep2":"Moteur de navigation",
+            "rep3":"Moteur de base de données",
+            "numreponsejuste":2
+        },
+        {
+            "num":30,
+            "question":"on herite la class MainActivity par",
+            "rep1":"extends",
+            "rep2":"import",
+            "rep3":"deux points",
+            "numreponsejuste":1
+        },
+        {
+            "num":31,
+            "question":"l'ecouteur associe a un spinner est ",
+            "rep1":"Sp.setOntextChangedListner(this)",
+            "rep2":"Sp.setOnItemSelectedLisnter(this)",
+            "rep3":"Sp.setOnItemSelectedLisnter()",
+            "numreponsejuste":3
+        },
+        {
+            "num":32,
+            "question":"Lequel des éléments suivants n’est pas un pseudonyme d’une version d’Android ?",
+            "rep1":"Muffin",
+            "rep2":"Cupcake",
+            "rep3":"Donut",
+            "numreponsejuste":1
+        },
+        {
+            "num":33,
+            "question":"Laquelle des versions suivantes d’Android s’appelle Jelly Bean ?",
+            "rep1":"1.1",
+            "rep2":"2.1",
+            "rep3":"4.1",
+            "numreponsejuste":3
+        },
+        {
+            "num":34,
+            "question":"Laquelle des bibliothèques Android suivantes permet d’accéder à une base de données ?",
+            "rep1":"android.api",
+            "rep2":"android.database",
+            "rep3":"android.content",
+            "numreponsejuste":2
+        },
+        {
+            "num":35,
+            "question":"Laquelle des méthodes suivantes d’Android est utilisée pour enregistrer les messages de débogage ?",
+            "rep1":"Log.d()",
+            "rep2":"Log.D()",
+            "rep3":"log.r()",
+            "numreponsejuste":1
+        },
+        {
+            "num":36,
+            "question":"Laquelle de ces couches est la plus basse de l’architecture androïde ?",
+            "rep1":"Applications",
+            "rep2":"Framework d’applications",
+            "rep3":"Noyau Linux",
+            "numreponsejuste":3
+        },
+        {
+            "num":37,
+            "question":"Que contient le fichier manifest.xml ?",
+            "rep1":"Liste des chaînes de caractères utilisées dans l’application",
+            "rep2":"Permission que l’application requiert",
+            "rep3":"Mot de passe et login",
+            "numreponsejuste":2
+        },
+        {
+            "num":38,
+            "question":"Lequel des éléments suivants n’est pas un état du cycle de vie des services ?",
+            "rep1":"Destroyed",
+            "rep2":"Start",
+            "rep3":"Paused",
+            "numreponsejuste":3
+        },
+        {
+
+            "num":39,
+            "question":"Lequel des éléments suivants est une classe de dialogue dans Android ?",
+            "rep1":"ProgressDialog",
+            "rep2":"DatePicker Dialog",
+            "rep3":"Toutes les réponses sont vraies",
+            "numreponsejuste":3
+        },
+        {
+            "num":40,
+            "question":"Dans quel état se trouve l’activité, si elle n’est pas en focus, mais toujours visible à l’écran ?",
+            "rep1":"Etat de pause",
+            "rep2":"État « Running »",
+            "rep3":"État « Stopped »",
+            "numreponsejuste":3
+        }
+    ]
+}

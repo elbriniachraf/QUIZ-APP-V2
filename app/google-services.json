@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134642403057",
+    "project_id": "quiz-lunch",
+    "storage_bucket": "quiz-lunch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134642403057:android:d0c7257d340fa665374b50",
+        "android_client_info": {
+          "package_name": "achraf.elbrini.controle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134642403057-5puik51560eu3jjb1m68ldhgrk7rq9if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "achraf.elbrini.controle",
+            "certificate_hash": "3702c8b821fcbfb4eca4061eab9b0293336d8c27"
+          }
+        },
+        {
+          "client_id": "134642403057-76tv1h4kmn2q3pn31a0kci9b5p3ih3p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71p4dLAPDvmlkUD1WUAS-bQpzo2WF6Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134642403057-76tv1h4kmn2q3pn31a0kci9b5p3ih3p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

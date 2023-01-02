@@ -1,0 +1,335 @@
+{
+    "questions":[
+        {
+            "num":1,
+            "question":"String en Java est ______",
+            "rep1":"une classe",
+            "rep2":"un objet",
+            "rep3":"une variable",
+            "numreponsejuste":1
+        },
+        {
+            "num":2,
+            "question":"Laquelle de ces méthodes de la classe String est utilisée pour obtenir le caractère à l’index spécifié?",
+            "rep1":"charat()",
+            "rep2":"Charat()",
+            "rep3":"charat()",
+            "numreponsejuste":3
+        },
+        {
+            "num":3,
+            "question":"Lesquelles des affirmations suivantes sont incorrectes?",
+            "rep1":"String est une classe",
+            "rep2":"Les chaînes en java sont mutables",
+            "rep3":"Chaque chaîne est un objet de classe String",
+            "numreponsejuste":2
+        },
+
+        {
+            "num":4,
+            "question":"Lequel de ces opérateurs peut être utilisé pour concaténer deux ou plusieurs objets String?",
+            "rep1":"+",
+            "rep2":"=+",
+            "rep3":"&",
+            "numreponsejuste":1
+        },
+        {
+            "num":5,
+            "question":"Combien d’octets sont utilisés pour représenter le type int en Java ?",
+            "rep1":"2",
+            "rep2":"4",
+            "rep3":"8",
+            "numreponsejuste":3
+        },
+        {
+            "num":6,
+            "question":"Lesquels sont des identifiants autorisés?",
+            "rep1":"number_5",
+            "rep2":"$9876",
+            "rep3":"Tout les réponses sont vrais",
+            "numreponsejuste":3
+        },
+        {
+            "num":7,
+            "question":"Lesquels des éléments suivants sont des mots-clés Java?",
+            "rep1":"throw",
+            "rep2":"void",
+            "rep3":"Tout les réponses sont vrais",
+            "numreponsejuste":3
+        },
+        {
+            "num":8,
+            "question":"Lequel des énoncés suivants à propos du Java est vrai?",
+            "rep1":"L’approche procédurale et la POO sont prises en charge dans Java.",
+            "rep2":"Java ne supporte qu’une approche procédurale de la programmation.",
+            "rep3":"Aucun de ces réponses",
+            "numreponsejuste":1
+        },
+        {
+            "num":9,
+            "question":"La classe « Hashtable » est utilisée pour implémenter quelle interface de collection.",
+            "rep1":"List",
+            "rep2":"Set",
+            "rep3":"Map",
+            "numreponsejuste":3
+        },
+        {
+            "num":10,
+            "question":"La classe TreeMap est utilisée pour implémenter quelle interface de collection.",
+            "rep1":" SortedMap",
+            "rep2":"SortedSet",
+            "rep3":"Set",
+            "numreponsejuste":1
+        },
+        {
+            "num":11,
+            "question":"Qu’est-ce qu’un objet agrégé?",
+            "rep1":"Un objet avec seulement des attributs primitifs",
+            "rep2":"Un objet qui contient d’autres objets",
+            "rep3":"Aucune de ces réponses",
+            "numreponsejuste":2
+        },
+        {
+            "num":12,
+            "question":"Lesquels de ces éléments sont des interfaces qui se trouvent dans le framework Collections?",
+            "rep1":"List",
+            "rep2":"Set",
+            "rep3":"les deux reponses",
+            "numreponsejuste":3
+        },
+        {
+            "num":13,
+            "question":"Une classe de premier niveau peut avoir seulement le modificateur d’accès suivant?",
+            "rep1":"public",
+            "rep2":"package",
+            "rep3":"private",
+            "numreponsejuste":1
+        },
+        {
+            "num":14,
+            "question":"Quel est le nombre d’octets occupé par une variable de type long ?",
+            "rep1":"4",
+            "rep2":"8",
+            "rep3":"2",
+            "numreponsejuste":2
+        },
+        {
+            "num":15,
+            "question":"Lesquelles de ces déclarations sont autorisés?",
+            "rep1":"int arr[][] = new int[5][5];",
+            "rep2":"int []arr[] = new int[5][5];",
+            "rep3":"les deux reponses",
+            "numreponsejuste":3
+        },
+        {
+            "num":16,
+            "question":"Parmi ceux-ci, lesquels ne sont pas des mots-clés dans Java?",
+            "rep1":"then",
+            "rep2":"TRUE",
+            "rep3":"interface",
+            "numreponsejuste":1
+        },
+        {
+            "num":17,
+            "question":"En utilisant jusqu’à quatre caractères, écrivez la représentation octal de 6 en Java.",
+            "rep1":"06",
+            "rep2":"0006",
+            "rep3":"tout ce qui precede",
+            "numreponsejuste":3
+        },
+        {
+            "num":18,
+            "question":"Quel est le résultat de l’évaluation de l’expression 14 ^ 23 ?",
+            "rep1":"24",
+            "rep2":"25",
+            "rep3":"21",
+            "numreponsejuste":2
+        },
+        {
+            "num":19,
+            "question":"Quelles sont les deux parties d’une valeur de type double?",
+            "rep1":"Chiffres significatifs, exposant",
+            "rep2":"Mode, Numérateur",
+            "rep3":"Mode, dénominateur",
+            "numreponsejuste":1
+        },
+        {
+            "num":20,
+            "question":"Laquelle de ces classes est une super classe de toutes les classes de types Exception ",
+            "rep1":"Cachable",
+            "rep2":"RuntimeExceptions",
+            "rep3":"Throwable",
+            "numreponsejuste":3
+        },
+        {
+            "num":21,
+            "question":"Que se passe-t-il lorsqu’un constructeur est défini pour une interface?",
+            "rep1":"Une exception est levée",
+            "rep2":"Échec de compilation",
+            "rep3":"L’interface se compile avec succès",
+            "numreponsejuste":3
+        },
+        {
+            "num":22,
+            "question":"Quelle affirmation est correcte concernant les interfaces en Java?",
+            "rep1":"L’interface est utilisée pour réaliser l’héritage multiple en java",
+            "rep2":"L’objet d’une interface ne peut pas être créé",
+            "rep3":"Tout les réponses sont vrais.",
+            "numreponsejuste":3
+        },
+
+        {
+            "num":23,
+            "question":"Lequel des éléments suivants n’est pas un concept POO en Java?",
+            "rep1":"Compilation",
+            "rep2":"Encapsulation",
+            "rep3":"Polymorphisme",
+            "numreponsejuste":1
+        },
+        {
+            "num":24,
+            "question":"Quand la surcharge de méthode est-elle déterminée?",
+            "rep1":"Au moment de l’exécution",
+            "rep2":"Au moment de la compilation",
+            "rep3":"Au moment du codage",
+            "numreponsejuste":2
+        },
+        {
+            "num":25,
+            "question":"Comment ça s’appelle si un objet a son propre cycle de vie?",
+            "rep1":"Composition",
+            "rep2":"Encapsulation",
+            "rep3":"Association",
+            "numreponsejuste":3
+        },
+        {
+            "num":26,
+            "question":"Quel est l’ordre des variables dans Enum?",
+            "rep1":"Ordre croissant",
+            "rep2":"Ordre décroissant",
+            "rep3":"Ordre aléatoire",
+            "numreponsejuste":1
+        },
+        {
+            "num":20,
+            "question":"Quelle méthode renvoie les éléments de la classe Enum?",
+            "rep1":"getEnum()",
+            "rep2":"getEnumConstants()",
+            "rep3":"getEnums()",
+            "numreponsejuste":2
+        },
+        {
+            "num":27,
+            "question":"À partir de quelle classe s’étendent toutes les Enums?",
+            "rep1":"Enums",
+            "rep2":"EnumClass",
+            "rep3":"Enum",
+            "numreponsejuste":3
+        },
+        {
+            "num":28,
+            "question":"Quel est l’alternative de la bibliothèque de temps « joda » dans java 8?",
+            "rep1":"java.time (JSR-310)",
+            "rep2":"java.joda",
+            "rep3":"java.jodaTime",
+            "numreponsejuste":1
+        },
+        {
+            "num":29,
+            "question":"Comment mettre en forme la date dans un formulaire?",
+            "rep1":"SimpleFormat",
+            "rep2":"SimpleDateFormat",
+            "rep3":"DateFormat",
+            "numreponsejuste":2
+        },
+        {
+            "num":30,
+            "question":"Que représente LocalTime?",
+            "rep1":"Date sans heure",
+            "rep2":"Date et heure",
+            "rep3":"Heure sans date",
+            "numreponsejuste":3
+        },
+        {
+            "num":31,
+            "question":"Comment obtenir l’heure UTC?",
+            "rep1":"Instant.now();",
+            "rep2":"TimeZone.getUTC();",
+            "rep3":"Date.getUTC()",
+            "numreponsejuste":1
+        },
+        {
+            "num":32,
+            "question":"Les opérations de Stream dans java 8 peuvent être divisées en _____",
+            "rep1":"Opération intermédiaire",
+            "rep2":"Les deux A et B sont vrais.",
+            "rep3":"Opération terminale",
+            "numreponsejuste":2
+        },
+        {
+            "num":33,
+            "question":"Que fait Files.lines(Path path) ?",
+            "rep1":"Il lit tous les fichiers au chemin spécifié comme une chaîne",
+            "rep2":"Il lit les noms de fichiers au chemin spécifié",
+            "rep3":"Il lit toutes les lignes d’un fichier en tant que Stream",
+            "numreponsejuste":3
+        },
+        {
+            "num":34,
+            "question":"Quel est le successeur du moteur javascript Rhino dans Java 8?",
+            "rep1":"Nashorn",
+            "rep2":"V8",
+            "rep3":"TypeScript",
+            "numreponsejuste":1
+        },
+        {
+            "num":35,
+            "question":"Que signifie SAM dans le contexte de l’interface fonctionnelle?",
+            "rep1":"Simple Abstract Markup",
+            "rep2":"Single Abstract Method",
+            "rep3":"Single Ambivalue Method",
+            "numreponsejuste":2
+        },
+        {
+            "num":36,
+            "question":"Nashorn le nouveau moteur JavaScript est une implémentation de ____",
+            "rep1":"javax.script.Engine",
+            "rep2":"javax.javaScript.Engine",
+            "rep3":" javax.script.ScriptEngine",
+            "numreponsejuste":3
+        },
+        {
+            "num":37,
+            "question":"Predicate se trouve dans quel package dans Java 8?",
+            "rep1":"java.util.objects",
+            "rep2":"java.util.function",
+            "rep3":"java.util.predict",
+            "numreponsejuste":3
+        },
+        {
+            "num":38,
+            "question":"Comment ça s’appelle si un objet a son propre cycle de vie?",
+            "rep1":"Composition",
+            "rep2":"Encapsulation",
+            "rep3":"Association",
+            "numreponsejuste":3
+        },
+        {
+            "num":39,
+            "question":"Quel est l’ordre des variables dans Enum?",
+            "rep1":"Ordre croissant",
+            "rep2":"Ordre décroissant",
+            "rep3":"Ordre aléatoire",
+            "numreponsejuste":1
+        },
+        {
+            "num":40,
+            "question":"Quelle méthode renvoie les éléments de la classe Enum?",
+            "rep1":"getEnum()",
+            "rep2":"getEnumConstants()",
+            "rep3":"getEnums()",
+            "numreponsejuste":2
+        }
+
+    ]
+}
